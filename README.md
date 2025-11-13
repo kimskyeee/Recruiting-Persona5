@@ -1,6 +1,6 @@
 # <mark> Recreating Persona5 UI System </mark>
 Recreating Persona5 UI System은 Persona 5의 시각적 연출과 인터랙션 구조를 분석한 뒤,<br>
-언리얼 엔진 5.6의 **Common UI 시스템**을 기반으로 재현한 프로젝트입니다.<br>
+언리얼 엔진의 **Common UI 시스템**을 기반으로 재현한 프로젝트입니다.<br>
 UI 스택 구조, 입력 매핑, 애니메이션 처리 등 UI 시스템을 직접 설계하고 구현했습니다.
 
 ## <mark> 영상 보기 </mark>
@@ -11,7 +11,7 @@ UI 스택 구조, 입력 매핑, 애니메이션 처리 등 UI 시스템을 직�
 <br>
 
 ## <mark> 사용 기술 </mark>
-- Unreal Engine 5.5
+- Unreal Engine 5.6
 - C++ / Blueprint 혼합 구조
 - Rider
 
